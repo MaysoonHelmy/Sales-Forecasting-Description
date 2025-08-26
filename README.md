@@ -32,7 +32,8 @@ The project includes data preprocessing, feature engineering, exploratory data a
 ## Technologies Used
 
 - Python  
-- Jupyter Notebook  
+- Jupyter Notebook
+- ydata profiling
 - Pandas  
 - NumPy  
 - Scikit-learn  
