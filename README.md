@@ -132,11 +132,3 @@ Sales-Forecasting-Description/
 * **LightGBM** consistently outperforms **XGBoost** across all feature sets.
 * The **manual** and **all** feature sets yield the best results overall.
 * R² drop values are small, indicating both models generalize well with only minor overfitting.
-
-## Contributing
-
-This project is a personal learning project 
-
-## License
-
-This project is not licensed. It is intended for educational and practice purposes only.
